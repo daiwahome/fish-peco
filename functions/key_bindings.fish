@@ -1,2 +1,1 @@
-bind \cr peco_select_history
-
+bind \cr '__peco_select_history'
